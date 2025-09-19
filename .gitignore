@@ -1,0 +1,84 @@
+# -------------------------
+# PlatformIO
+# -------------------------
+.pio/
+.vscode/
+.clangd/
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+# PlatformIO build logs
+*.log
+
+# -------------------------
+# Arduino / VSCode
+# -------------------------
+*.elf
+*.bin
+*.hex
+
+# -------------------------
+# KiCad
+# -------------------------
+# Backup and autosave
+*.bak
+*.kicad_pcb-bak
+*.sch-bak
+*-backups/
+fp-info-cache
+sym-lib-table-bak
+fp-lib-table-bak
+
+# Gerbers, drill, plots
+*.gbr
+*.drl
+*.zip
+*.pdf
+*.svg
+*.ps
+
+# Cache and generated files
+*-cache.lib
+*-rescue.lib
+*-cache.kicad_sch
+*-rescue.kicad_sch
+*.kicad_prl
+*.kicad_pro-bak
+*.kicad_sch-bak
+*.kicad_pcb-bak
+
+# -------------------------
+# SolidWorks
+# -------------------------
+*.sldprt~
+*.sldasm~
+*.slddrw~
+*.swp
+*.log
+*.sldworks.*
+~$*
+*.temp
+*.ldb
+
+# SolidWorks autosave / backup folders
+swbackup/
+~sw*
+
+# -------------------------
+# 3D Files (STL, STEP, etc.)
+# -------------------------
+# Ignore exported mesh files (optional — remove if you want them in git)
+*.stl
+*.obj
+*.step
+*.iges
+*.3mf
+
+# -------------------------
+# OS / Misc
+# -------------------------
+.DS_Store
+Thumbs.db
+desktop.ini
