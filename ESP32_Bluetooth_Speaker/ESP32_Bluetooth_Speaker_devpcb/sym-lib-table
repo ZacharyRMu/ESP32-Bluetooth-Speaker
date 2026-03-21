@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Speaker_Lib")(type "KiCad")(uri "D:/git/ESP32-Bluetooth-Speaker/ESP32_Bluetooth_Speaker/Speaker_Lib.kicad_sym")(options "")(descr ""))
+)
